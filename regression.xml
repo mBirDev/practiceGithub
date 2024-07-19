@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="Test-Suite" >
+    <test name="Functional Testing" >
+        <packages>
+            <package name="com.admin"/>
+            <package name="com.leave"/>
+            <package name="com.recruitment"/>
+            <package name="com.time"/>
+        </packages>
+    </test>
+</suite>

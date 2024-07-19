@@ -1,0 +1,12 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="Test-Suite" >
+    <test name="Functional Testing" >
+<!--        <packages>-->
+<!--            <package name="com.BaseClass"/>-->
+<!--        </packages>-->
+        <classes>
+            <class name="com.BaseClass.TestBase">
+            </class>
+        </classes>
+    </test>
+</suite>
